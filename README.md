@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left"> My Website </h3> <a herf="https://im7med.vercel.app/" trget="blank" alt="https://im7med.vercel.app/"></a>
+[My Website](https://im7med.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
