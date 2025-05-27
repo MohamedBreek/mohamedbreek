@@ -16,5 +16,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=im7med&show_icons=true&locale=en" alt="im7med" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im7med&" alt="im7med" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=im7med&show_icons=true&locale=en&layout=compact" alt="im7med" /></p>
