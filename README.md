@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Breek
 
-I'm a **20-year-old Computer Science student** from Israel, passionate about **web development** and building real-world projects. I love learning new technologies, and sharing my journey as a developer.  
+I'm a **20-year-old Computer Science student** from Israel, passionate about **discovering new things** and building real-world projects. I love learning new technologies and sharing my journey as a developer.  
 
 ---
 
