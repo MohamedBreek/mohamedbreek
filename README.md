@@ -1,5 +1,38 @@
-<h1 align="center">Hi 👋, I'm mohamed breek</h1>
-<h3 align="center"> I'm 20 years old and I'm studying CS in the open university</h3>
+# 👋 Hi, I'm Mohamed Breek
+
+I'm a **20-year-old Computer Science student** from Israel, passionate about **web development** and building real-world projects. I love learning new technologies, and sharing my journey as a developer.  
+
+---
+
+## 💻 Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB  
+- **Tools & Platforms:** Git, GitHub, Vercel, Discord  
+- **Other:** GitHub Actions, Open-Source Collaboration  
+
+---
+
+> “Always looking for new challenges, building skills one day at a time.”  
+
+---
+
+## 🔗 Projects
+
+u can see all my projects here :
+
+- **Portfolio Website:** [mohamedbreek.vercel.app](https://mohamedbreek.vercel.app)  
+---
+
+## 📫 Contact Me
+
+💼 [LinkedIn](https://www.linkedin.com/in/mohamedbreek-)  
+
+u can contact me on LinkedIn or Discord
+---
+
+*Let's code, learn, and build awesome things every day!* 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im7med&label=Profile%20views&color=0e75b6&style=flat" alt="im7med" /> </p>
 
