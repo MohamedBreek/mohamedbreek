@@ -27,9 +27,8 @@ u can see all my projects here :
 
 ## 📫 Contact Me
 
-💼 [LinkedIn](www.linkedin.com/in/mohamed-breek)  
+💼 [LinkedIn](www.linkedin.com/in/mohamed-breek)
 
-u can contact me on LinkedIn or Discord
 ---
 
 *Let's code, learn, and build awesome things every day!* 🚀
