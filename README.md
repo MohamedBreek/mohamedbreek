@@ -20,16 +20,14 @@ I'm a **20-year-old Computer Science student** from Israel, passionate about **d
 
 ## 🔗 Projects
 
-u can see all my projects here :
+you can see all my projects here :
 
 - **Portfolio Website:** [mohamedbreek.vercel.app](https://mohamedbreek.vercel.app)  
 ---
 
 ## 📫 Contact Me
 
-LinkedIn: [Mohamed breek](www.linkedin.com/in/mohamed-breek)
-
+** LinkedIn:** [Mohamed Breek](https://www.linkedin.com/in/mohamed-breek/)
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im7med&label=Profile%20views&color=0e75b6&style=flat" alt="im7med" /> </p>
-
