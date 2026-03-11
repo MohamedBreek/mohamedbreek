@@ -27,7 +27,7 @@ you can see all my projects here :
 
 ## 📫 Contact Me
 
-** LinkedIn:** [Mohamed Breek](https://www.linkedin.com/in/mohamed-breek/)
+- LinkedIn: [Mohamed Breek](https://www.linkedin.com/in/mohamed-breek/)
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im7med&label=Profile%20views&color=0e75b6&style=flat" alt="im7med" /> </p>
